@@ -1,0 +1,100 @@
+plant_name_id|continent_code_l1|continent|region_code_l2|region|area_code_l3|area|introduced|extinct|location_doubtful
+329042-az|7|NORTHERN AMERICA|79|Mexico|MXN|Mexico Northwest|0|0|0
+329045-az|8|SOUTHERN AMERICA|83|Western South America|CLM|Colombia|0|0|0
+329046-az|8|SOUTHERN AMERICA|80|Central America|PAN|Panamá|0|0|0
+329048-az|8|SOUTHERN AMERICA|82|Northern South America|VEN|Venezuela|0|0|0
+329050-az|3|ASIA-TEMPERATE|36|China|CHC|China South-Central|0|0|0
+329050-az|3|ASIA-TEMPERATE|36|China|CHS|China Southeast|0|0|0
+329050-az|4|ASIA-TROPICAL|41|Indo-China|VIE|Vietnam|0|0|0
+329055-az|8|SOUTHERN AMERICA|82|Northern South America|VEN|Venezuela|0|0|0
+329058-az|4|ASIA-TROPICAL|42|Malesia|MLY|Malaya|0|0|0
+329059-az|8|SOUTHERN AMERICA|83|Western South America|CLM|Colombia|0|0|0
+329061-az|2|AFRICA|24|Northeast Tropical Africa|DJI|Djibouti|0|0|0
+329061-az|2|AFRICA|24|Northeast Tropical Africa|ETH|Ethiopia|0|0|0
+329061-az|2|AFRICA|24|Northeast Tropical Africa|SOM|Somalia|0|0|0
+329061-az|2|AFRICA|24|Northeast Tropical Africa|SUD|Sudan|0|0|0
+329061-az|2|AFRICA|25|East Tropical Africa|KEN|Kenya|0|0|0
+329061-az|2|AFRICA|25|East Tropical Africa|TAN|Tanzania|0|0|0
+329061-az|2|AFRICA|25|East Tropical Africa|UGA|Uganda|0|0|0
+329062-az|2|AFRICA|29|Western Indian Ocean|MDG|Madagascar|0|0|0
+329063-az|8|SOUTHERN AMERICA|80|Central America|COS|Costa Rica|0|0|0
+329064-az|4|ASIA-TROPICAL|42|Malesia|MLY|Malaya|0|0|0
+329066-az|4|ASIA-TROPICAL|41|Indo-China|THA|Thailand|0|0|0
+329070-az|8|SOUTHERN AMERICA|82|Northern South America|VEN|Venezuela|0|0|0
+329073-az|7|NORTHERN AMERICA|77|South-Central U.S.A.|TEX|Texas|0|0|0
+329073-az|7|NORTHERN AMERICA|79|Mexico|MXC|Mexico Central|0|0|0
+329073-az|7|NORTHERN AMERICA|79|Mexico|MXE|Mexico Northeast|0|0|0
+329073-az|7|NORTHERN AMERICA|79|Mexico|MXG|Mexico Gulf|0|0|0
+329073-az|7|NORTHERN AMERICA|79|Mexico|MXN|Mexico Northwest|0|0|0
+329073-az|7|NORTHERN AMERICA|79|Mexico|MXS|Mexico Southwest|0|0|0
+329073-az|7|NORTHERN AMERICA|79|Mexico|MXT|Mexico Southeast|0|0|0
+329073-az|8|SOUTHERN AMERICA|80|Central America|GUA|Guatemala|0|0|0
+329079-az|7|NORTHERN AMERICA|79|Mexico|MXC|Mexico Central|0|0|0
+329079-az|7|NORTHERN AMERICA|79|Mexico|MXS|Mexico Southwest|0|0|0
+329081-az|2|AFRICA|29|Western Indian Ocean|COM|Comoros|0|0|0
+329091-az|2|AFRICA|29|Western Indian Ocean|MDG|Madagascar|0|0|0
+329096-az|8|SOUTHERN AMERICA|82|Northern South America|VEN|Venezuela|0|0|0
+329097-az|8|SOUTHERN AMERICA|82|Northern South America|VEN|Venezuela|0|0|0
+329098-az|8|SOUTHERN AMERICA|82|Northern South America|VEN|Venezuela|0|0|0
+329100-az|8|SOUTHERN AMERICA|80|Central America|COS|Costa Rica|0|0|0
+329108-az|2|AFRICA|29|Western Indian Ocean|MDG|Madagascar|0|0|0
+329110-az|3|ASIA-TEMPERATE|36|China|CHC|China South-Central|0|0|0
+329110-az|4|ASIA-TROPICAL|41|Indo-China|MYA|Myanmar|0|0|0
+329110-az|4|ASIA-TROPICAL|41|Indo-China|VIE|Vietnam|0|0|0
+329111-az|8|SOUTHERN AMERICA|83|Western South America|CLM|Colombia|0|0|0
+329113-az|2|AFRICA|29|Western Indian Ocean|MDG|Madagascar|0|0|0
+329115-az|8|SOUTHERN AMERICA|83|Western South America|BOL|Bolivia|0|0|0
+329115-az|8|SOUTHERN AMERICA|84|Brazil|BZC|Brazil West-Central|0|0|0
+329115-az|8|SOUTHERN AMERICA|84|Brazil|BZL|Brazil Southeast|0|0|0
+329118-az|8|SOUTHERN AMERICA|83|Western South America|CLM|Colombia|0|0|0
+329121-az|2|AFRICA|29|Western Indian Ocean|MDG|Madagascar|0|0|0
+329124-az|8|SOUTHERN AMERICA|82|Northern South America|VEN|Venezuela|0|0|0
+329126-az|2|AFRICA|23|West-Central Tropical Africa|ZAI|Zaïre|0|0|0
+329126-az|2|AFRICA|25|East Tropical Africa|TAN|Tanzania|0|0|0
+329126-az|2|AFRICA|26|South Tropical Africa|MLW|Malawi|0|0|0
+329126-az|2|AFRICA|26|South Tropical Africa|MOZ|Mozambique|0|0|0
+329126-az|2|AFRICA|26|South Tropical Africa|ZAM|Zambia|0|0|0
+329128-az|2|AFRICA|23|West-Central Tropical Africa|BUR|Burundi|0|0|0
+329128-az|2|AFRICA|23|West-Central Tropical Africa|CAF|Central African Repu|0|0|0
+329128-az|2|AFRICA|23|West-Central Tropical Africa|ZAI|Zaïre|0|0|0
+329128-az|2|AFRICA|24|Northeast Tropical Africa|ETH|Ethiopia|0|0|0
+329128-az|2|AFRICA|24|Northeast Tropical Africa|SUD|Sudan|0|0|0
+329128-az|2|AFRICA|25|East Tropical Africa|KEN|Kenya|0|0|0
+329128-az|2|AFRICA|25|East Tropical Africa|TAN|Tanzania|0|0|0
+329128-az|2|AFRICA|25|East Tropical Africa|UGA|Uganda|0|0|0
+329128-az|2|AFRICA|26|South Tropical Africa|MLW|Malawi|0|0|0
+329128-az|2|AFRICA|26|South Tropical Africa|MOZ|Mozambique|0|0|0
+329128-az|2|AFRICA|26|South Tropical Africa|ZAM|Zambia|0|0|0
+329128-az|2|AFRICA|26|South Tropical Africa|ZIM|Zimbabwe|0|0|0
+329129-az|7|NORTHERN AMERICA|79|Mexico|MXC|Mexico Central|0|0|0
+329129-az|7|NORTHERN AMERICA|79|Mexico|MXS|Mexico Southwest|0|0|0
+329132-az|8|SOUTHERN AMERICA|83|Western South America|CLM|Colombia|0|0|0
+329134-az|8|SOUTHERN AMERICA|80|Central America|GUA|Guatemala|0|0|0
+329136-az|4|ASIA-TROPICAL|40|Indian Subcontinent|NEP|Nepal|0|0|0
+329137-az|2|AFRICA|26|South Tropical Africa|ANG|Angola|0|0|0
+329137-az|2|AFRICA|26|South Tropical Africa|MOZ|Mozambique|0|0|0
+329137-az|2|AFRICA|26|South Tropical Africa|ZAM|Zambia|0|0|0
+329137-az|2|AFRICA|26|South Tropical Africa|ZIM|Zimbabwe|0|0|0
+329137-az|2|AFRICA|27|Southern Africa|BOT|Botswana|0|0|0
+329137-az|2|AFRICA|27|Southern Africa|CPP|Cape Provinces|0|0|0
+329137-az|2|AFRICA|27|Southern Africa|CPV|Caprivi Strip|0|0|0
+329137-az|2|AFRICA|27|Southern Africa|NAM|Namibia|0|0|0
+329137-az|2|AFRICA|27|Southern Africa|NAT|KwaZulu-Natal|0|0|0
+329137-az|2|AFRICA|27|Southern Africa|OFS|Free State|0|0|0
+329137-az|2|AFRICA|27|Southern Africa|SWZ|Swaziland|0|0|0
+329137-az|2|AFRICA|27|Southern Africa|TVL|Northern Provinces|0|0|0
+329179-az|8|SOUTHERN AMERICA|84|Brazil|BZL|Brazil Southeast|0|0|0
+329181-az|4|ASIA-TROPICAL|41|Indo-China|MYA|Myanmar|0|0|0
+329183-az|7|NORTHERN AMERICA|79|Mexico|MXG|Mexico Gulf|0|0|0
+329183-az|7|NORTHERN AMERICA|79|Mexico|MXT|Mexico Southeast|0|0|0
+329184-az|8|SOUTHERN AMERICA|80|Central America|NIC|Nicaragua|0|0|0
+329186-az|2|AFRICA|22|West Tropical Africa|NGA|Nigeria|0|0|0
+329189-az|2|AFRICA|22|West Tropical Africa|MLI|Mali|0|0|0
+329189-az|2|AFRICA|22|West Tropical Africa|SEN|Senegal|0|0|0
+329195-az|8|SOUTHERN AMERICA|84|Brazil|BZC|Brazil West-Central|0|0|0
+329195-az|8|SOUTHERN AMERICA|84|Brazil|BZE|Brazil Northeast|0|0|0
+329195-az|8|SOUTHERN AMERICA|84|Brazil|BZL|Brazil Southeast|0|0|0
+329197-az|2|AFRICA|29|Western Indian Ocean|MDG|Madagascar|0|0|0
+329199-az|8|SOUTHERN AMERICA|83|Western South America|BOL|Bolivia|0|0|0
+329199-az|8|SOUTHERN AMERICA|85|Southern South America|AGW|Argentina Northwest|0|0|0
+329205-az|2|AFRICA|27|Southern Africa|CPP|Cape Provinces|0|0|0

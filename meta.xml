@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<archive xmlns="http://rs.tdwg.org/dwc/text/" metadata="eml.xml">
+  <core encoding="UTF-8" fieldsTerminatedBy="|" linesTerminatedBy="\n" fieldsEnclosedBy='' ignoreHeaderLines="1" rowType="http://rs.tdwg.org/dwc/terms/Taxon">
+    <files>
+      <location>checklist_names.100.txt</location>
+    </files>
+    <id index="0" />
+    <!-- 
+plant_name_id|ipni_id|taxon_rank|taxon_status|family|genus_hybrid|genus|species_hybrid|species|infraspecific_rank|infraspecies|parenthetical_author|primary_author|publication_author|place_of_publication|volume_and_page|first_published|nomenclatural_remarks|geographic_area|lifeform_description|climate_description|taxon_name|taxon_authors|accepted_plant_name_id|basionym_plant_name_id|homotypic_synonym
+    -->
+    <field index="0" term="http://purl.org/dc/terms/taxonID"/>
+    <field index="2" term="http://rs.tdwg.org/dwc/terms/taxonRank"/>
+    <field index="3" term="http://rs.tdwg.org/dwc/terms/taxonomicStatus"/>
+    <field index="4" term="http://rs.tdwg.org/dwc/terms/family"/>    
+    <field index="6" term="http://rs.tdwg.org/dwc/terms/genus"/>
+    <field index="8" term="http://rs.tdwg.org/dwc/terms/specificEpithet"/>    
+    <field index="10" term="http://rs.tdwg.org/dwc/terms/infraSpecificEpithet"/>
+    <field index="14" term="http://rs.tdwg.org/dwc/terms/namePublishedIn"/>
+    <field index="16" term="http://rs.tdwg.org/dwc/terms/namePublishedInYear"/>
+    <field index="17" term="http://rs.tdwg.org/dwc/terms/taxonRemarks"/>
+    <field index="21" term="http://rs.tdwg.org/dwc/terms/scientificName"/>
+    <field index="22" term="http://rs.tdwg.org/dwc/terms/scientificNameAuthorship"/>
+    <field index="23" term="http://rs.tdwg.org/dwc/terms/acceptedNameUsageID"/>
+    <field index="24" term="http://rs.tdwg.org/dwc/terms/originalNameUsageID"/>
+  </core>
+  <core encoding="UTF-8" fieldsTerminatedBy="|" linesTerminatedBy="\n" fieldsEnclosedBy='' ignoreHeaderLines="1" rowType="http://rs.gbif.org/terms/1.0/Distribution">
+    <files>
+      <location>checklist_distribution.100.txt</location>
+    </files>
+    <id index="0" />
+    <!--
+      plant_name_id|continent_code_l1|continent|region_code_l2|region|area_code_l3|area|introduced|extinct|location_doubtful
+    -->
+    <field index="0" term="http://purl.org/dc/terms/taxonID"/>
+    <field index="5" term="http://rs.tdwg.org/dwc/terms/locationID"/>
+    <field index="6" term="http://rs.tdwg.org/dwc/terms/locality"/>
+  </core>  
+</archive>

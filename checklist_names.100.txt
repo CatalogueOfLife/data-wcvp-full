@@ -1,0 +1,100 @@
+plant_name_id|ipni_id|taxon_rank|taxon_status|family|genus_hybrid|genus|species_hybrid|species|infraspecific_rank|infraspecies|parenthetical_author|primary_author|publication_author|place_of_publication|volume_and_page|first_published|nomenclatural_remarks|geographic_area|lifeform_description|climate_description|taxon_name|taxon_authors|accepted_plant_name_id|basionym_plant_name_id|homotypic_synonym
+615351-az|1738-2|Species|Synonym|Acanthaceae||Acelica||trimerocalyx||||Rizzini||Leandra|5(6): 36|(1975)|||||Acelica trimerocalyx|Rizzini|330985-az||
+615347-az|295940-2|Genus|Synonym|Acanthaceae||Acelica||||||Rizzini||Arch. Jard. Bot. Rio de Janeiro|9: 55|(1949)|||||Acelica|Rizzini|330441-az||
+617796-az|44936-1|Species|Accepted|Acanthaceae||Achyrocalyx||decaryi||||Benoist||Bull. Soc. Bot. France|76: 1037|(1929 publ. 1930)||Madagascar||Seasonally Dry Tropical|Achyrocalyx decaryi|Benoist|617796-az||
+617797-az|44937-1|Species|Accepted|Acanthaceae||Achyrocalyx||gossypinus||||Benoist||Notul. Syst. (Paris)|8: 154|(1939)||Madagascar||Seasonally Dry Tropical|Achyrocalyx gossypinus|Benoist|617797-az||
+617798-az|44938-1|Species|Accepted|Acanthaceae||Achyrocalyx||pungens||||Benoist||Notul. Syst. (Paris)|12: 11|(1945)||Madagascar||Seasonally Dry Tropical|Achyrocalyx pungens|Benoist|617798-az||
+617799-az|44939-1|Species|Accepted|Acanthaceae||Achyrocalyx||vicinus||||Benoist||Notul. Syst. (Paris)|8: 153|(1939)||Madagascar||Seasonally Dry Tropical|Achyrocalyx vicinus|Benoist|617799-az||
+617795-az|346-1|Genus|Accepted|Acanthaceae||Achyrocalyx||||||Benoist||Bull. Soc. Bot. France|76: 1036|(1929 publ. 1930)||Madagascar||Seasonally Dry Tropical|Achyrocalyx|Benoist|617795-az||
+621162-az|347-1|Genus|Illegitimate|Acanthaceae||Adatoda||||||Raf.||Fl. Tellur.|4: 60|(1838)|, nom. superfl.||||Adatoda|Raf.|330441-az|622393-az|
+621164-az|435473-1|Species|Unplaced|Acanthaceae||Adelaida||borbonica||||Buc'hoz||Herb. Color. Amérique|: t. 74|(1783)||Réunion|||Adelaida borbonica|Buc'hoz|||
+621163-az|19963-1|Genus|Unplaced|Acanthaceae||Adelaida||||||Buc'hoz||Herb. Color. Amérique|: t. 74|(1783)|||||Adelaida|Buc'hoz|||
+621169-az|4180-2|Species|Synonym|Acanthaceae||Adelaster||albivenis||||Lindl. ex Veitch||Gard. Chron.|1861: 499|(1861)|||||Adelaster albivenis|Lindl. ex Veitch|813190-az||T
+615307-az|44927-1|Species|Synonym|Acanthaceae||Acanthus||ugandensis||||C.B.Clarke||J. Linn. Soc., Bot.|37: 527|(1906)||Trop. Africa||Seasonally Dry Tropical|Acanthus ugandensis|C.B.Clarke|615286-az||
+615309-az||Variety|Synonym|Acanthaceae||Acanthus||vandermeirenii|var.|violaceopunctatus||De Wild.||Pl. Bequaert.|4: 27|(1926)||Zaïre||Wet Tropical|Acanthus vandermeirenii var. violaceopunctatus|De Wild.|615305-az||
+615308-az|44928-1|Species|Synonym|Acanthaceae||Acanthus||vandermeirenii||||De Wild.||Bull. Jard. Bot. État Bruxelles|4: 428|(1914)||Zaïre||Wet Tropical|Acanthus vandermeirenii|De Wild.|615305-az||
+615310-az|44930-1|Species|Accepted|Acanthaceae||Acanthus||villaeanus||||De Wild.||Ann. Mus. Congo Belge, Bot.|, sér. 4, 1: 148|(1903)||DR Congo||Seasonally Dry Tropical|Acanthus villaeanus|De Wild.|615310-az||
+615311-az|44931-1|Species|Accepted|Acanthaceae||Acanthus||volubilis||||Wall.||Pl. Asiat. Rar.|2: 56|(1831)||Bangladesh to W. Malesia|Climber|Wet Tropical|Acanthus volubilis|Wall.|615311-az||
+615312-az|1006050-1|Species|Synonym|Acanthaceae||Acanthus||xiamenensis||||R.T.Zhang||Wuyi Sci. J.|5: 239|(1985)||China (Guangxi, Fujian)|Nanophanerophyte|Subtropical|Acanthus xiamenensis|R.T.Zhang|615257-az||
+615207-az|344-1|Genus|Accepted|Acanthaceae||Acanthus||||||L.||Sp. Pl.|: 639|(1753)||SC. & SE. Europe to N. Australia and Africa|||Acanthus|L.|615207-az||
+615348-az|1735-2|Species|Synonym|Acanthaceae||Acelica||cydoniifolia|||Nees|Rizzini||Arch. Jard. Bot. Rio de Janeiro|9: 55|(1949)|||||Acelica cydoniifolia|(Nees) Rizzini|330985-az|622431-az|T
+615349-az|1736-2|Species|Synonym|Acanthaceae||Acelica||holosericea|||Nees|Rizzini||Arch. Jard. Bot. Rio de Janeiro|9: 194|(1949)|||||Acelica holosericea|(Nees) Rizzini|622457-az|622457-az|T
+615350-az|1737-2|Species|Synonym|Acanthaceae||Acelica||scandens||||Rizzini||Dusenia|1: 292|(1950)|||||Acelica scandens|Rizzini|333050-az||
+621168-az|349-1|Genus|Synonym|Acanthaceae||Adelaster||||||Lindl. ex Veitch||Gard. Chron.|1861: 499|(1861)|||||Adelaster|Lindl. ex Veitch|813189-az||
+621181-az|44945-1|Species|Synonym|Acanthaceae||Adeloda||brachiata|||Spreng.|Raf.||Autik. Bot.|: 32|(1840)|||||Adeloda brachiata|(Spreng.) Raf.|766457-az|766457-az|T
+621182-az|44946-1|Species|Synonym|Acanthaceae||Adeloda||integra||||Raf.||Fl. Tellur.|4: 61|(1838)|||||Adeloda integra|Raf.|766722-az||
+621183-az|44947-1|Species|Synonym|Acanthaceae||Adeloda||serrata||||Raf.||Fl. Tellur.|4: 61|(1838)|||||Adeloda serrata|Raf.|330223-az||
+621184-az|44948-1|Species|Unplaced|Acanthaceae||Adeloda||verticillata||||Raf.||Autik. Bot.|: 32|(1840)||Arkansas to Texas|||Adeloda verticillata|Raf.|||
+1004598-az|350-1|Genus|Synonym|Acanthaceae||Adeloda||||||Raf.||Fl. Tellur.|4: 61|(1838)|||||Adeloda|Raf.|330441-az||
+621195-az|44949-1|Species|Synonym|Acanthaceae||Adenacanthus||acuminatus||||Nees|N.Wallich|Pl. Asiat. Rar.|3: 75|(1832)|||||Adenacanthus acuminatus|Nees|476823-az||
+621196-az|44950-1|Species|Synonym|Acanthaceae||Adenacanthus||glandulosus|||Blume|Bremek.||Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2|, 41(1): 187|(1944)|||||Adenacanthus glandulosus|(Blume) Bremek.|477128-az|477128-az|T
+621197-az|44951-1|Species|Unplaced|Acanthaceae||Adenacanthus||latifolia||||Nees|A.P.de Candolle|Prodr.|11: 197|(1847)|||||Adenacanthus latifolia|Nees|||
+621198-az|20007841-1|Species|Synonym|Acanthaceae||Adenacanthus||longispicus||||H.P.Tsui||Fl. Reipubl. Popularis Sin.|70: 348|(2002)||China (Yunnan)|||Adenacanthus longispicus|H.P.Tsui|476711-az||T
+621199-az|44952-1|Species|Synonym|Acanthaceae||Adenacanthus||repandus|||Blume|Bremek.||Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2|, 41(1): 196|(1944)|||||Adenacanthus repandus|(Blume) Bremek.|476823-az|342197-az|T
+621200-az|44953-1|Species|Synonym|Acanthaceae||Adenacanthus||rubroglandulosus|||Craib|Bremek.||Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2|, 41(1): 198|(1944)|||||Adenacanthus rubroglandulosus|(Craib) Bremek.|476823-az|476862-az|
+621194-az|351-1|Genus|Synonym|Acanthaceae||Adenacanthus||||||Nees|N.Wallich|Pl. Asiat. Rar.|3: 75|(1832)|||||Adenacanthus|Nees|478629-az||
+621870-az|44954-1|Species|Synonym|Acanthaceae||Adenosma||affinis||||Griff.||Not. Pl. Asiat.|4: 133|(1854)|||||Adenosma affinis|Griff.|932637-az||T
+621871-az|44955-1|Species|Synonym|Acanthaceae||Adenosma||africana||||T.Anderson||J. Proc. Linn. Soc., Bot.|7: 21|(1863)|||||Adenosma africana|T.Anderson|856657-az||T
+621873-az|44957-1|Species|Synonym|Acanthaceae||Adenosma||balsamea||||Spreng.||Syst. Veg.|2: 829|(1825)|||||Adenosma balsamea|Spreng.|856667-az||
+621875-az|44958-1|Species|Synonym|Acanthaceae||Adenosma||biplicata||||Nees|N.Wallich|Pl. Asiat. Rar.|3: 79|(1832)|||||Adenosma biplicata|Nees|856674-az||T
+621881-az|798424-1|Species|Synonym|Acanthaceae||Adenosma||chenopodiifolia|||Poir.|Spreng.||Syst. Veg.|2: 829|(1825)||Society Is.|Therophyte|Wet Tropical|Adenosma chenopodiifolia|(Poir.) Spreng.|342033-az|421796-az|
+621885-az|44959-1|Species|Synonym|Acanthaceae||Adenosma||elongata||||Blume||Bijdr. Fl. Ned. Ind.|: 757|(1826)|||||Adenosma elongata|Blume|477749-az||
+621887-az|798430-1|Species|Unplaced|Acanthaceae||Adenosma||fragrans||||Spreng.||Syst. Veg.|2: 829|(1825)||Society Is.|Therophyte|Wet Tropical|Adenosma fragrans|Spreng.|||
+621891-az|44960-1|Species|Synonym|Acanthaceae||Adenosma||griffithii||||T.Anderson||J. Linn. Soc., Bot.|9: 454|(1867)|||||Adenosma griffithii|T.Anderson|856712-az||T
+621896-az|44961-1|Species|Synonym|Acanthaceae||Adenosma||lanceolata||||Blume||Bijdr. Fl. Ned. Ind.|: 757|(1826)|||||Adenosma lanceolata|Blume|478509-az||T
+621904-az|44962-1|Species|Synonym|Acanthaceae||Adenosma||pinnatifida|||Dalzell|T.Anderson||J. Linn. Soc., Bot.|9: 455|(1867)|||||Adenosma pinnatifida|(Dalzell) T.Anderson|856773-az|380102-az|T
+621905-az|44963-1|Species|Synonym|Acanthaceae||Adenosma||polysperma||||Spreng.||Syst. Veg.|2: 829|(1825)|||||Adenosma polysperma|Spreng.|856807-az||
+621909-az|44964-1|Species|Synonym|Acanthaceae||Adenosma||spatulata||||Blume||Bijdr. Fl. Ned. Ind.|: 737|(1826)|||||Adenosma spatulata|Blume|478419-az||T
+621914-az|44966-1|Species|Synonym|Acanthaceae||Adenosma||thymus||||Nees|N.Wallich|Pl. Asiat. Rar.|3: 79|(1832)|||Chamaephyte|Wet Tropical|Adenosma thymus|Nees|996110-az||T
+621916-az|44968-1|Species|Synonym|Acanthaceae||Adenosma||uliginosa|||L.f.|Nees|R.Brown|Verm. Bot. Schr.|3: 298|(1827)|||||Adenosma uliginosa|(L.f.) Nees|856715-az|420702-az|T
+621917-az|44969-1|Species|Synonym|Acanthaceae||Adenosma||verticillata||||Nees|A.P.de Candolle|Prodr.|11: 69|(1847)|||||Adenosma verticillata|Nees|856667-az||
+621869-az|352-1|Genus|Illegitimate|Acanthaceae||Adenosma||||||Nees|N.Wallich|Pl. Asiat. Rar.|3: 75|(1832)|, nom. illeg.||||Adenosma|Nees|856651-az||
+621920-az||Species|Synonym|Acanthaceae||Adenostachya||comosa|||Benoist|Bremek.||Dansk Bot. Ark.|20: 69|(1961)|||||Adenostachya comosa|(Benoist) Bremek.|476746-az|478343-az|
+621921-az|44970-1|Species|Synonym|Acanthaceae||Adenostachya||moschifera|||Blume|Bremek.||Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2|, 41(1): 192|(1944)|||||Adenostachya moschifera|(Blume) Bremek.|476746-az|476746-az|T
+621922-az|44971-1|Species|Synonym|Acanthaceae||Adenostachya||parvifolia||||Bremek.||Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2|, 41(1): 192|(1944)|||||Adenostachya parvifolia|Bremek.|476746-az||
+621923-az|44972-1|Species|Synonym|Acanthaceae||Adenostachya||plurispica||||Bremek.||Dansk Bot. Ark.|20: 69|(1961)|||||Adenostachya plurispica|Bremek.|476746-az||
+621919-az|353-1|Genus|Synonym|Acanthaceae||Adenostachya||||||Bremek.||Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2|, 41(1): 59|(1944)|||||Adenostachya|Bremek.|478629-az||
+622394-az|44973-1|Species|Synonym|Acanthaceae||Adhatoda||acuminata|||Hochst.|Nees|A.P.de Candolle|Prodr.|11: 400|(1847)|||||Adhatoda acuminata|(Hochst.) Nees|330627-az|436823-az|
+622395-az|44975-1|Species|Synonym|Acanthaceae||Adhatoda||adenostachya|||Nees|Nees|A.P.de Candolle|Prodr.|11: 408|(1847)|||||Adhatoda adenostachya|(Nees) Nees|436825-az|436825-az|T
+622396-az|44976-1|Species|Invalid|Acanthaceae||Adhatoda||adhatoda|||L.|Huth||Helios|11: 132|(1893)|, not validly publ.||||Adhatoda adhatoda|(L.) Huth|330223-az|330223-az|T
+622397-az|44977-1|Species|Synonym|Acanthaceae||Adhatoda||amaranthoides||||Nees|A.P.de Candolle|Prodr.|11: 400|(1847)|||||Adhatoda amaranthoides|Nees|330810-az||
+622398-az|44978-1|Species|Synonym|Acanthaceae||Adhatoda||anagalloides||||Nees|A.P.de Candolle|Prodr.|11: 403|(1847)|||||Adhatoda anagalloides|Nees|330439-az||T
+622399-az|44979-1|Species|Synonym|Acanthaceae||Adhatoda||andromeda|||Lindau|C.B.Clarke|W.H.Harvey & auct. suc. (eds.)|Fl. Cap.|5(1): 76|(1901)|||||Adhatoda andromeda|(Lindau) C.B.Clarke|1002541-az|779595-az|T
+622400-az|44980-1|Species|Synonym|Acanthaceae||Adhatoda||anselliana||||Nees|A.P.de Candolle|Prodr.|11: 403|(1847)|||||Adhatoda anselliana|Nees|330242-az||T
+622401-az||Species|Synonym|Acanthaceae||Adhatoda||arborea||||Raf.||Fl. Tellur.|4: 61|(1838)|||||Adhatoda arborea|Raf.|330223-az||
+622402-az|44982-1|Species|Synonym|Acanthaceae||Adhatoda||arenaria||||Nees|N.Wallich|Pl. Asiat. Rar.|3: 103|(1832)|||||Adhatoda arenaria|Nees|380247-az||
+622403-az|44983-1|Species|Synonym|Acanthaceae||Adhatoda||argyrostachya||||Nees|N.Wallich|Pl. Asiat. Rar.|3: 102|(1832)|||||Adhatoda argyrostachya|Nees|330196-az||
+622404-az|44984-1|Species|Synonym|Acanthaceae||Adhatoda||aspera||||Nees|A.P.de Candolle|Prodr.|11: 397|(1847)|||||Adhatoda aspera|Nees|751723-az||
+622405-az|44985-1|Species|Unplaced|Acanthaceae||Adhatoda||aurantiaca||||Regel||Index Seminum (LE, Petropolitanus)|1857: 47|(1858)|||||Adhatoda aurantiaca|Regel|||
+622407-az|44987-1|Species|Illegitimate|Acanthaceae||Adhatoda||auriculata||||S.Moore|A.B.Rendle & al.|Cat. Pl. Oban|: 87|(1913)|, nom. illeg.||||Adhatoda auriculata|S.Moore|329687-az||
+622406-az|44986-1|Species|Unplaced|Acanthaceae||Adhatoda||auriculata||||Nees|A.P.de Candolle|Prodr.|11: 407|(1847)|||||Adhatoda auriculata|Nees|||
+622408-az|44988-1|Species|Synonym|Acanthaceae||Adhatoda||bagshawei||||S.Moore||J. Bot.|45: 333|(1907)|||||Adhatoda bagshawei|S.Moore|330963-az||T
+622409-az|308174-2|Species|Synonym|Acanthaceae||Adhatoda||bahiensis||||Nees|C.F.P.von Martius & auct. suc. (eds.)|Fl. Bras.|9: 148|(1847)|||||Adhatoda bahiensis|Nees|406601-az||T
+622410-az|44990-1|Species|Synonym|Acanthaceae||Adhatoda||beddomei||||C.B.Clarke|J.D.Hooker|Fl. Brit. India|4: 540|(1884)|||||Adhatoda beddomei|C.B.Clarke|330364-az||T
+622411-az|44991-1|Species|Synonym|Acanthaceae||Adhatoda||betonica|||L.|Nees|N.Wallich|Pl. Asiat. Rar.|3: 103|(1832)|||||Adhatoda betonica|(L.) Nees|380247-az|330408-az|T
+622412-az|44992-1|Species|Synonym|Acanthaceae||Adhatoda||boerhaviifolia||||Nees|A.P.de Candolle|Prodr.|11: 409|(1847)|||||Adhatoda boerhaviifolia|Nees|330404-az||T
+622413-az|44993-1|Species|Synonym|Acanthaceae||Adhatoda||bojeriana||||Nees|A.P.de Candolle|Prodr.|11: 386|(1847)|||||Adhatoda bojeriana|Nees|1240085-az||T
+622414-az|44994-1|Species|Synonym|Acanthaceae||Adhatoda||bolomboensis|||De Wild.|Heine||Fl. Gabon|13: 178|(1966)|||||Adhatoda bolomboensis|(De Wild.) Heine|330398-az|330398-az|T
+622415-az|44995-1|Species|Synonym|Acanthaceae||Adhatoda||buchholzii|||Lindau|S.Moore|A.B.Rendle & al.|Cat. Pl. Oban|: 74|(1913)|||||Adhatoda buchholzii|(Lindau) S.Moore|331068-az|779601-az|T
+622416-az|44996-1|Species|Synonym|Acanthaceae||Adhatoda||camerunensis||||Heine||Kew Bull.|16: 165|(1962)|||||Adhatoda camerunensis|Heine|331250-az||T
+622417-az|271628-2|Species|Synonym|Acanthaceae||Adhatoda||candicans||||Nees|A.P.de Candolle|Prodr.|11: 396|(1847)|||||Adhatoda candicans|Nees|763598-az||T
+622418-az|44998-1|Species|Synonym|Acanthaceae||Adhatoda||capensis|||Thunb.|Nees|A.P.de Candolle|Prodr.|11: 396|(1847)|||||Adhatoda capensis|(Thunb.) Nees|331233-az|331233-az|T
+622420-az|4819-2|Variety|Synonym|Acanthaceae||Adhatoda||carthaginensis|var.|glabra||Nees|A.P.de Candolle|Prodr.|11: 403|(1847)|||||Adhatoda carthaginensis var. glabra|Nees|330800-az||
+622421-az|4820-2|Variety|Synonym|Acanthaceae||Adhatoda||carthaginensis|var.|minor||Nees|A.P.de Candolle|Prodr.|11: 403|(1847)||Peru, Western South America, Southern America|||Adhatoda carthaginensis var. minor|Nees|330800-az||
+622419-az|44999-1|Species|Synonym|Acanthaceae||Adhatoda||carthaginensis|||Jacq.|Nees|A.P.de Candolle|Prodr.|11: 403|(1847)|||||Adhatoda carthaginensis|(Jacq.) Nees|330800-az|330800-az|T
+622422-az|45000-1|Species|Synonym|Acanthaceae||Adhatoda||ceylanica||||Nees|A.P.de Candolle|Prodr.|11: 400|(1847)|||||Adhatoda ceylanica|Nees|330810-az||T
+622423-az|45001-1|Species|Synonym|Acanthaceae||Adhatoda||cheiranthifolia||||Nees|A.P.de Candolle|Prodr.|11: 387|(1847)|||||Adhatoda cheiranthifolia|Nees|380247-az||
+622424-az|45002-1|Species|Synonym|Acanthaceae||Adhatoda||chinensis||||Benth.||Hooker's J. Bot. Kew Gard. Misc.|5: 134|(1853)|||||Adhatoda chinensis|Benth.|330791-az||
+622425-az|45003-1|Species|Synonym|Acanthaceae||Adhatoda||chrysotrichoma|||Nees|Nees|A.P.de Candolle|Prodr.|11: 408|(1847)|||||Adhatoda chrysotrichoma|(Nees) Nees|330838-az|436845-az|T
+622426-az|45004-1|Species|Illegitimate|Acanthaceae||Adhatoda||ciliata|||Nees|Nees|A.P.de Candolle|Prodr.|11: 396|(1847)|, nom. illeg.||||Adhatoda ciliata|(Nees) Nees|329952-az|436818-az|
+622427-az|45005-1|Species|Synonym|Acanthaceae||Adhatoda||claessensii|||De Wild.|Heine||Fl. Gabon|13: 175|(1966)|||||Adhatoda claessensii|(De Wild.) Heine|330847-az|330847-az|T
+622428-az|45006-1|Species|Synonym|Acanthaceae||Adhatoda||congrua||||Nees|C.F.P.von Martius & auct. suc. (eds.)|Fl. Bras.|9: 147|(1847)|||||Adhatoda congrua|Nees|333050-az||
+622429-az|45007-1|Species|Synonym|Acanthaceae||Adhatoda||cuneata|||Vahl|Nees|A.P.de Candolle|Prodr.|11: 392|(1847)|||||Adhatoda cuneata|(Vahl) Nees|330932-az|330932-az|T
+622430-az|45008-1|Species|Synonym|Acanthaceae||Adhatoda||cuneifolia|||Nees & Mart.|Nees|A.P.de Candolle|Prodr.|11: 405|(1847)|||||Adhatoda cuneifolia|(Nees & Mart.) Nees|330937-az|330937-az|T
+622431-az|45009-1|Species|Synonym|Acanthaceae||Adhatoda||cydoniifolia||||Nees|C.F.P.von Martius & auct. suc. (eds.)|Fl. Bras.|9: 148|(1847)|||||Adhatoda cydoniifolia|Nees|330985-az||T
+622432-az|45010-1|Species|Synonym|Acanthaceae||Adhatoda||cymosa||||Griff.||Itin. Pl. Khasyah Mts.|: 96|(1848)|||||Adhatoda cymosa|Griff.|900035-az||T
+622433-az|45011-1|Species|Synonym|Acanthaceae||Adhatoda||decussata|||Roxb.|Nees|A.P.de Candolle|Prodr.|11: 408|(1847)|||||Adhatoda decussata|(Roxb.) Nees|331270-az|331270-az|T
+622434-az|914793-1|Species|Synonym|Acanthaceae||Adhatoda||densiflora|||Hochst.|J.C.Manning||S. African J. Bot.|51: 490|(1985)|||||Adhatoda densiflora|(Hochst.) J.C.Manning|329535-az|818752-az|T
+622435-az|45012-1|Species|Synonym|Acanthaceae||Adhatoda||diffusa||||Benth.|W.J.Hooker|Niger Fl.|: 483|(1849)|||||Adhatoda diffusa|Benth.|329383-az||
+622436-az|45013-1|Species|Synonym|Acanthaceae||Adhatoda||diosmophylla||||Nees|A.P.de Candolle|Prodr.|11: 394|(1847)|||||Adhatoda diosmophylla|Nees|329205-az||
+622437-az|4824-2|Species|Synonym|Acanthaceae||Adhatoda||dipteracantha||||Nees|A.P.de Candolle|Prodr.|11: 396|(1847)|||||Adhatoda dipteracantha|Nees|329274-az||
