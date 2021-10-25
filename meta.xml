@@ -23,16 +23,16 @@ plant_name_id|ipni_id|taxon_rank|taxon_status|family|genus_hybrid|genus|species_
     <field index="23" term="http://rs.tdwg.org/dwc/terms/acceptedNameUsageID"/>
     <field index="24" term="http://rs.tdwg.org/dwc/terms/originalNameUsageID"/>
   </core>
-  <core encoding="UTF-8" fieldsTerminatedBy="|" linesTerminatedBy="\n" fieldsEnclosedBy='' ignoreHeaderLines="1" rowType="http://rs.gbif.org/terms/1.0/Distribution">
+  <extension encoding="UTF-8" fieldsTerminatedBy="|" linesTerminatedBy="\n" fieldsEnclosedBy='' ignoreHeaderLines="1" rowType="http://rs.gbif.org/terms/1.0/Distribution">
     <files>
       <location>checklist_distribution.100.txt</location>
     </files>
-    <id index="0" />
+    <coreid index="0" />
     <!--
       plant_name_id|continent_code_l1|continent|region_code_l2|region|area_code_l3|area|introduced|extinct|location_doubtful
     -->
     <field index="0" term="http://purl.org/dc/terms/taxonID"/>
     <field index="5" term="http://rs.tdwg.org/dwc/terms/locationID"/>
     <field index="6" term="http://rs.tdwg.org/dwc/terms/locality"/>
-  </core>  
+  </extension>  
 </archive>
